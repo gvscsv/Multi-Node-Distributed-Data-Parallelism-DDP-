@@ -1,0 +1,14 @@
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# DeepSpeed/Ninja compiler artifacts
+.ninja_log
+.ninja_deps
+build/
+ninja_build/
+
+# Operating system metadata files
+.DS_Store
+Thumbs.db
